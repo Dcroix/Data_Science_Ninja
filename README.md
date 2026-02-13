@@ -8,9 +8,6 @@ This repository is a structured training ground designed to transform aspiring d
 - Every notebook is a training scroll.  
 - Every project is a mission.
 # Your journey begins now.
-
-
-# ---
 ## 🌱 The Ninja Path of Data Science 
 
 
