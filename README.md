@@ -9,8 +9,9 @@ This repository is a structured training ground designed to transform aspiring d
   * [Jupyter Notebook Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/Jupyter%20Notebook%20Shadow%20Scrolls.ipynb)*(right-click → Open in new tab)*
 - Every project is a mission.
 
-# Your journey begins now.
 ## 🏯 The Ninja Path of Data Science 
+# Your journey begins now.
+
 
 
 
