@@ -6,7 +6,7 @@
 This repository is a structured training ground designed to transform aspiring data scientists from beginners into elite data warriors. 
 - Every folder represents a ninja rank.  
 - Every notebook is a training scroll.
-  * Jupyter Notebook Shadow Scroll [Portal](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/Jupyter%20Notebook%20Shadow%20Scrolls.ipynb)*(right-click → Open in new tab)*
+  * [Jupyter Notebook Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/Jupyter%20Notebook%20Shadow%20Scrolls.ipynb)*(right-click → Open in new tab)*
 - Every project is a mission.
 
 # Your journey begins now.
