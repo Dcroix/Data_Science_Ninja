@@ -4,7 +4,7 @@
 
 # Welcome to the Shadow Village of Data Science.
 This repository is a structured training ground designed to transform aspiring data scientists from beginners into elite data warriors. 
-- Every folder represents a ninja skill.  
+- Every Python / R library you familiarize is a ninja jutsu.  
 - Every notebook is a training scroll.
   * [Jupyter Notebook Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/Jupyter%20Notebook%20Shadow%20Scrolls.ipynb) *(right-click → Open in new tab)*
   * [Spyder Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/Spyder%20Shadow%20Scrolls.ipynb) *(right-click → Open in new tab)*
