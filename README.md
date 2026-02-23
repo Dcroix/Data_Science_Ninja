@@ -14,6 +14,7 @@ This repository is a structured training ground designed to transform aspiring d
   * [Spyder Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/Spyder%20Shadow%20Scrolls.ipynb) *(right-click → Open in new tab)*
   * [R Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/R%20Shadow%20Scrolls.ipynb) *(right-click → Open in new tab)*
   * [VS Code Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/VS%20Code%20Shadow%20Scrolls.ipynb) *(right-click → Open in new tab)*
+  * [PyCharm Shadow Scroll](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Shadow%20Scrolls/PyCharm%20Shadow%20Scroll.ipynb) *(right-click → Open in new tab)*
 - Every project is a mission.
 
 ## 🏯 The Ninja Path of Data Science 
