@@ -5,7 +5,8 @@
 # Welcome to the Shadow Village of Data Science.
 This repository is a structured training ground designed to transform aspiring data scientists from beginners into elite data warriors. 
 - Every Python / R library you familiarize is a ninja jutsu.
-  * [Python Data Cleaning Jutsu](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Python%20Jutsu/Data%20Cleaning%20Jutsu.ipynb) *(right-click → Open in new tab)*  
+  * [Python Data Cleaning Jutsu](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Python%20Jutsu/Data%20Cleaning%20Jutsu.ipynb) *(right-click → Open in new tab)*
+  * [Python Distribution Jutsu](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Python%20Jutsu/Distribution%20Jutsu.ipynb) *(right-click → Open in new tab)*  
   * [Python Pandas Jutsu](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Python%20Jutsu/Pandas%20Jutsu.py) *(right-click → Open in new tab)*
   * [Python Numpy Jutsu](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Python%20Jutsu/NumPy%20Jutsu.py) *(right-click → Open in new tab)*
   * [Python Qdesc Jutsu](https://github.com/Dcroix/Data_Science_Ninja/blob/main/Python%20Jutsu/Python%20Qdesc%20Jutsu.ipynb) *(right-click → Open in new tab)*   
